@@ -16,6 +16,8 @@ I'm a **backend developer** who enjoys turning ideas into working products. I re
 
 I'm early in my journey, curious about how systems work under the hood, and eager to keep growing through real projects.
 
+Resume: [Link](https://drive.google.com/file/d/1AqLWAvTmmqssBeL3cCV-FbZ0YxpB0Woq/view?usp=sharing)
+
 ---
 
 ## 💼 Experience
